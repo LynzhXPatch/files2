@@ -335,7 +335,6 @@ system/bin/yes
 system/bin/zip_utils
 
 system/etc/ams_aal_config.xml
-system/etc/apns-conf.xml
 system/etc/appmanager.conf
 system/etc/audio_effects.conf
 system/etc/auto-install2.json
